@@ -1,0 +1,15 @@
+
+
+.section-divider {
+  text-align: center;
+  position: relative;
+}
+
+.decoration-icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #000;
+  /* Sesuaikan gaya sesuai kebutuhan */
+}
